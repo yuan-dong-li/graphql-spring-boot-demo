@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2969403-528a-4449-a126-6ea08fcc9f8f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8.0_231" />
+  </component>
+  <component name="ProjectId" id="2D9a1blhigGOcBGHNkC8t3vmHXB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserQueryTests.userQueryTests (1)">
+    <configuration name="UserQueryTests.userQueryTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="graphql-server-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.app" />
+      <option name="MAIN_CLASS_NAME" value="org.example.app.UserQueryTests" />
+      <option name="METHOD_NAME" value="userQueryTests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserQueryTests.userQueryTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="graphql-server-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.app.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.app.test" />
+      <option name="MAIN_CLASS_NAME" value="org.example.app.test.UserQueryTests" />
+      <option name="METHOD_NAME" value="userQueryTests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserQueryTests.userQueryTests (1)" />
+        <item itemvalue="JUnit.UserQueryTests.userQueryTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2969403-528a-4449-a126-6ea08fcc9f8f" name="Default Changelist" comment="" />
+      <created>1660113539695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660113539695</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1660113756032">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state x="709" y="222" key="#com.intellij.ide.util.MemberChooser/0.25.1792.1010@0.25.1792.1010" timestamp="1660113756032" />
+    <state x="665" y="392" width="461" height="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1660120883383">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state x="665" y="392" width="461" height="279" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.25.1792.1010@0.25.1792.1010" timestamp="1660120883383" />
+    <state x="648" y="58" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1660117507362">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state x="648" y="58" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1792.1010@0.25.1792.1010" timestamp="1660117507362" />
+    <state width="1750" height="272" key="GridCell.Tab.0.bottom" timestamp="1660121641926">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="272" key="GridCell.Tab.0.bottom/0.25.1792.1010@0.25.1792.1010" timestamp="1660121641926" />
+    <state width="1750" height="272" key="GridCell.Tab.0.center" timestamp="1660121641925">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="272" key="GridCell.Tab.0.center/0.25.1792.1010@0.25.1792.1010" timestamp="1660121641925" />
+    <state width="1750" height="272" key="GridCell.Tab.0.left" timestamp="1660121641925">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="272" key="GridCell.Tab.0.left/0.25.1792.1010@0.25.1792.1010" timestamp="1660121641925" />
+    <state width="1750" height="272" key="GridCell.Tab.0.right" timestamp="1660121641925">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="272" key="GridCell.Tab.0.right/0.25.1792.1010@0.25.1792.1010" timestamp="1660121641925" />
+    <state x="434" y="190" key="Maven.ArtifactSearchDialog" timestamp="1660120829485">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state x="434" y="190" key="Maven.ArtifactSearchDialog/0.25.1792.1010@0.25.1792.1010" timestamp="1660120829485" />
+    <state x="634" y="288" key="extract.method.dialog" timestamp="1660121372384">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state x="634" y="288" key="extract.method.dialog/0.25.1792.1010@0.25.1792.1010" timestamp="1660121372384" />
+    <state x="556" y="294" width="680" height="472" key="find.popup" timestamp="1660122498323">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state x="556" y="294" width="680" height="472" key="find.popup/0.25.1792.1010@0.25.1792.1010" timestamp="1660122498323" />
+  </component>
+</project>
